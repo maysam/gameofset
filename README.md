@@ -1,24 +1,13 @@
-# gameofset
+# game Of Set
 
-## Project setup
-```
-yarn install
-```
+## Vuejs Project
 
-### Compiles and hot-reloads for development
 ```
-yarn serve
+my attempt to learn vuejs
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Gameplay
 
-### Lints and fixes files
 ```
-yarn lint
+choose three tiles where their features are either all the same or all different
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
